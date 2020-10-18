@@ -1,4 +1,4 @@
-package sort.K번째수;
+package sort.k번째수;
 
 import java.util.Arrays;
 
